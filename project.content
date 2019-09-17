@@ -1,0 +1,14 @@
+CalculatorSoap12\Add.xml
+CalculatorSoap12\Divide.xml
+CalculatorSoap12\Multiply.xml
+CalculatorSoap12\Subtract.xml
+CalculatorSoap\Add.xml
+CalculatorSoap\Divide.xml
+CalculatorSoap\Multiply.xml
+CalculatorSoap\Subtract.xml
+Cenário-de-teste---SOMAR\Validar-soma-de-dois-números-inteiros.xml
+Cenário-de-teste---SOMAR\Validar-parâmetros-incorretos.xml
+Cenário-de-teste---SOMAR\Validar-obrigatoriedade-de-campos.xml
+Cenário-de-Teste---SUBTRAIR\Multiply-TestCase.xml
+Cenário-de-Teste---SUBTRAIR\Subtract-TestCase.xml
+Cenário-de-Teste---SUBTRAIR\Divide-TestCase.xml

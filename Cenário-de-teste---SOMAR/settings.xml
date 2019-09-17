@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:testSuite id="694af7df-ee0a-4bf0-8f61-5dfa24c18498" name="Cenário de teste - SOMAR" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="694af7df-ee0a-4bf0-8f61-5dfa24c18498fileName">Cenário-de-teste---SOMAR</con:setting></con:settings><con:savedRecentRuns>1</con:savedRecentRuns><con:runType>SEQUENTIAL</con:runType><con:properties/><con:reportParameters/></con:testSuite>
